@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning Java and Django.
 - 🔭 I'm currently working on Exploratory Data Analysis projects.
 - 💞️ I’m looking to collaborate on Machine Learning and Data Science projects.
-     I'm proficient in Python, mySQL, Pandas and. 
+     I'm proficient in Python, mySQL, Pandas. 
 - 📫 How to reach me:
       Twitter: @MardiaArnav
       Email: mardiaarnav.apps@gmail.com
